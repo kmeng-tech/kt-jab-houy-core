@@ -13,7 +13,6 @@ include(
     // "services:api-gateway",
     // "services:auth-service",
     // "services:tenant-service",
-    "services:catalog-service",
     // "services:order-service",
     // "services:checkout-service",
     // "services:notification-service"

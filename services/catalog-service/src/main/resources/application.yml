@@ -1,8 +1,0 @@
-server:
-    port: ${SERVER_PORT:8081}
-
-spring:
-  profiles:
-    active: ${ACTIVE_PROFILE:local}
-  application:
-    name: catalog-service
