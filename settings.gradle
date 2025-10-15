@@ -5,7 +5,7 @@
  * For more detailed information on multi-project builds, please refer to https://docs.gradle.org/9.1.0/userguide/multi_project_builds.html in the Gradle documentation.
  */
 
-rootProject.name = 'kt-jab-houy'
+rootProject.name = 'kt-jab-houy-core'
 
 include(
     // "common-libs:common-core",
@@ -13,6 +13,7 @@ include(
     // "services:api-gateway",
     // "services:auth-service",
     // "services:tenant-service",
+    // "services:catalog-service",
     // "services:order-service",
     // "services:checkout-service",
     // "services:notification-service"
